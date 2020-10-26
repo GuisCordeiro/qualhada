@@ -1,2 +1,2 @@
-# https://guiscordeiro.github.io/qualhada/
+# qualhada
 A
