@@ -1,0 +1,15 @@
+#cadastroTela{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    }
+    
+    #titulo{
+        text-align: center;
+        font-size: 3rem;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 2ch;
+    }
