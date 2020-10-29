@@ -52,3 +52,8 @@
     font-size:2ch;
     font-weight: bold;
 }
+
+#imagemCarrossel{
+    max-height: 600px;
+    height: auto;
+}
